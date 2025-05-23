@@ -1,0 +1,59 @@
+[COMMAND] Hello
+[RULE] Hi there! How can I assist you today?
+
+[COMMAND] How are you?
+[RULE] I'm an AI, so I don't have feelings, but I'm ready to help you!
+
+[COMMAND] What is your name?
+[RULE] I am your Offline AI Assistant.
+
+[COMMAND] Who created you?
+[RULE] I was created by an AI developer to help you with your tasks.
+
+[COMMAND] Tell me a joke
+[RULE] Why don't scientists trust atoms? Because they make up everything!
+
+[COMMAND] What can you do?
+[RULE] I can answer your questions, remember our conversations, and follow your rules!
+
+[COMMAND] Goodbye
+[RULE] Goodbye! Have a wonderful day!
+
+[COMMAND] Thank you
+[RULE] You're welcome! Always here to help.
+
+[COMMAND] Help
+[RULE] You can upload rules, chat with me, or ask me anything you like!
+
+[COMMAND] What is AI?
+[RULE] AI stands for Artificial Intelligence, the simulation of human intelligence by machines.
+
+[COMMAND] What is machine learning?
+[RULE] Machine learning is a subset of AI that enables machines to learn from data.
+
+[COMMAND] Open settings
+[RULE] Sorry, I currently do not have settings you can modify manually.
+
+[COMMAND] Reset memory
+[RULE] Memory reset feature is under development. Please restart the assistant.
+
+[COMMAND] Upload file
+[RULE] Please use the upload button to send me your rules file.
+
+[COMMAND] Clear chat
+[RULE] To clear chat history, please refresh the page or restart the app.
+
+[COMMAND] Who is the best scientist?
+[RULE] Many great scientists exist, like Albert Einstein, Isaac Newton, and Marie Curie!
+
+[COMMAND] What is Python?
+[RULE] Python is a high-level, interpreted programming language popular for its readability and versatility.
+
+[COMMAND] What is your favorite color?
+[RULE] As an AI, I don't have preferences, but blue sounds nice!
+
+[COMMAND] What year is it?
+[RULE] It's the year 2025!
+
+[COMMAND] Give me a quote
+[RULE] "The future belongs to those who believe in the beauty of their dreams." — Eleanor Roosevelt
